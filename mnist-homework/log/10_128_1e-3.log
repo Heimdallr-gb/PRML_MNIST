@@ -1,0 +1,238 @@
+nohup: ignoring input
+logisticRg(
+  (lr): Sequential(
+    (0): Linear(in_features=784, out_features=10, bias=True)
+  )
+)
+Epoch:  0 | train loss: 2.3758 | test accuracy: 0.1238
+Epoch:  0 | train loss: 1.0754 | test accuracy: 0.8208
+Epoch:  0 | train loss: 0.6808 | test accuracy: 0.8516
+Epoch:  0 | train loss: 0.6431 | test accuracy: 0.8706
+Epoch:  0 | train loss: 0.5868 | test accuracy: 0.8809
+Epoch:  0 | train loss: 0.4127 | test accuracy: 0.8902
+Epoch:  0 | train loss: 0.4168 | test accuracy: 0.8942
+Epoch:  0 | train loss: 0.4915 | test accuracy: 0.8979
+Epoch:  0 | train loss: 0.5493 | test accuracy: 0.8990
+Epoch:  0 | train loss: 0.3181 | test accuracy: 0.9039
+Epoch:  1 | train loss: 0.3701 | test accuracy: 0.9030
+Epoch:  1 | train loss: 0.3294 | test accuracy: 0.9049
+Epoch:  1 | train loss: 0.3539 | test accuracy: 0.9079
+Epoch:  1 | train loss: 0.4047 | test accuracy: 0.9092
+Epoch:  1 | train loss: 0.4122 | test accuracy: 0.9079
+Epoch:  1 | train loss: 0.3893 | test accuracy: 0.9081
+Epoch:  1 | train loss: 0.3657 | test accuracy: 0.9123
+Epoch:  1 | train loss: 0.2906 | test accuracy: 0.9105
+Epoch:  1 | train loss: 0.3365 | test accuracy: 0.9119
+Epoch:  1 | train loss: 0.3012 | test accuracy: 0.9139
+Epoch:  2 | train loss: 0.3334 | test accuracy: 0.9139
+Epoch:  2 | train loss: 0.2923 | test accuracy: 0.9144
+Epoch:  2 | train loss: 0.3167 | test accuracy: 0.9150
+Epoch:  2 | train loss: 0.2986 | test accuracy: 0.9142
+Epoch:  2 | train loss: 0.4397 | test accuracy: 0.9148
+Epoch:  2 | train loss: 0.3455 | test accuracy: 0.9167
+Epoch:  2 | train loss: 0.3422 | test accuracy: 0.9161
+Epoch:  2 | train loss: 0.2617 | test accuracy: 0.9165
+Epoch:  2 | train loss: 0.2697 | test accuracy: 0.9159
+Epoch:  2 | train loss: 0.2625 | test accuracy: 0.9181
+Epoch:  3 | train loss: 0.3062 | test accuracy: 0.9172
+Epoch:  3 | train loss: 0.3185 | test accuracy: 0.9179
+Epoch:  3 | train loss: 0.2860 | test accuracy: 0.9189
+Epoch:  3 | train loss: 0.1882 | test accuracy: 0.9179
+Epoch:  3 | train loss: 0.2328 | test accuracy: 0.9210
+Epoch:  3 | train loss: 0.3499 | test accuracy: 0.9200
+Epoch:  3 | train loss: 0.3837 | test accuracy: 0.9185
+Epoch:  3 | train loss: 0.2716 | test accuracy: 0.9204
+Epoch:  3 | train loss: 0.3522 | test accuracy: 0.9213
+Epoch:  3 | train loss: 0.3838 | test accuracy: 0.9210
+Epoch:  4 | train loss: 0.2871 | test accuracy: 0.9215
+Epoch:  4 | train loss: 0.2298 | test accuracy: 0.9228
+Epoch:  4 | train loss: 0.4347 | test accuracy: 0.9210
+Epoch:  4 | train loss: 0.1559 | test accuracy: 0.9237
+Epoch:  4 | train loss: 0.1409 | test accuracy: 0.9205
+Epoch:  4 | train loss: 0.2534 | test accuracy: 0.9208
+Epoch:  4 | train loss: 0.2497 | test accuracy: 0.9206
+Epoch:  4 | train loss: 0.2417 | test accuracy: 0.9227
+Epoch:  4 | train loss: 0.2329 | test accuracy: 0.9228
+Epoch:  4 | train loss: 0.1770 | test accuracy: 0.9235
+Epoch:  5 | train loss: 0.3756 | test accuracy: 0.9242
+Epoch:  5 | train loss: 0.4184 | test accuracy: 0.9235
+Epoch:  5 | train loss: 0.2691 | test accuracy: 0.9232
+Epoch:  5 | train loss: 0.2027 | test accuracy: 0.9223
+Epoch:  5 | train loss: 0.2520 | test accuracy: 0.9226
+Epoch:  5 | train loss: 0.2551 | test accuracy: 0.9230
+Epoch:  5 | train loss: 0.2007 | test accuracy: 0.9218
+Epoch:  5 | train loss: 0.3768 | test accuracy: 0.9238
+Epoch:  5 | train loss: 0.2903 | test accuracy: 0.9219
+Epoch:  5 | train loss: 0.3919 | test accuracy: 0.9244
+Epoch:  6 | train loss: 0.3917 | test accuracy: 0.9248
+Epoch:  6 | train loss: 0.2465 | test accuracy: 0.9237
+Epoch:  6 | train loss: 0.1788 | test accuracy: 0.9248
+Epoch:  6 | train loss: 0.2171 | test accuracy: 0.9232
+Epoch:  6 | train loss: 0.3597 | test accuracy: 0.9238
+Epoch:  6 | train loss: 0.3042 | test accuracy: 0.9234
+Epoch:  6 | train loss: 0.1577 | test accuracy: 0.9232
+Epoch:  6 | train loss: 0.3339 | test accuracy: 0.9239
+Epoch:  6 | train loss: 0.4273 | test accuracy: 0.9246
+Epoch:  6 | train loss: 0.2496 | test accuracy: 0.9236
+Epoch:  7 | train loss: 0.2135 | test accuracy: 0.9243
+Epoch:  7 | train loss: 0.3661 | test accuracy: 0.9260
+Epoch:  7 | train loss: 0.1959 | test accuracy: 0.9252
+Epoch:  7 | train loss: 0.2322 | test accuracy: 0.9247
+Epoch:  7 | train loss: 0.2403 | test accuracy: 0.9254
+Epoch:  7 | train loss: 0.2959 | test accuracy: 0.9250
+Epoch:  7 | train loss: 0.2927 | test accuracy: 0.9239
+Epoch:  7 | train loss: 0.2971 | test accuracy: 0.9237
+Epoch:  7 | train loss: 0.3841 | test accuracy: 0.9247
+Epoch:  7 | train loss: 0.1767 | test accuracy: 0.9247
+Epoch:  8 | train loss: 0.1659 | test accuracy: 0.9255
+Epoch:  8 | train loss: 0.2184 | test accuracy: 0.9258
+Epoch:  8 | train loss: 0.1483 | test accuracy: 0.9259
+Epoch:  8 | train loss: 0.2013 | test accuracy: 0.9261
+Epoch:  8 | train loss: 0.1874 | test accuracy: 0.9245
+Epoch:  8 | train loss: 0.2242 | test accuracy: 0.9269
+Epoch:  8 | train loss: 0.1982 | test accuracy: 0.9267
+Epoch:  8 | train loss: 0.3221 | test accuracy: 0.9251
+Epoch:  8 | train loss: 0.2521 | test accuracy: 0.9257
+Epoch:  8 | train loss: 0.2580 | test accuracy: 0.9254
+Epoch:  9 | train loss: 0.1912 | test accuracy: 0.9265
+Epoch:  9 | train loss: 0.2622 | test accuracy: 0.9258
+Epoch:  9 | train loss: 0.2365 | test accuracy: 0.9257
+Epoch:  9 | train loss: 0.3151 | test accuracy: 0.9250
+Epoch:  9 | train loss: 0.2946 | test accuracy: 0.9266
+Epoch:  9 | train loss: 0.2918 | test accuracy: 0.9255
+Epoch:  9 | train loss: 0.3798 | test accuracy: 0.9260
+Epoch:  9 | train loss: 0.1054 | test accuracy: 0.9265
+Epoch:  9 | train loss: 0.3305 | test accuracy: 0.9266
+Epoch:  9 | train loss: 0.2175 | test accuracy: 0.9258
+DecisionTreeClassifier()
+Decision Tree | test accuracy: 0.8770
+Decision Tree | test accuracy: 0.8780
+Decision Tree | test accuracy: 0.8762
+Decision Tree | test accuracy: 0.8764
+Decision Tree | test accuracy: 0.8758
+Decision Tree | test accuracy: 0.8774
+Decision Tree | test accuracy: 0.8776
+Decision Tree | test accuracy: 0.8773
+Decision Tree | test accuracy: 0.8791
+Decision Tree | test accuracy: 0.8775
+CNN(
+  (conv1): Sequential(
+    (0): Conv2d(1, 16, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (1): ReLU()
+    (2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (conv2): Sequential(
+    (0): Conv2d(16, 32, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (1): ReLU()
+    (2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (out): Linear(in_features=1568, out_features=10, bias=True)
+)
+Epoch:  0 | train loss: 2.3159 | test accuracy: 0.1098
+Epoch:  0 | train loss: 0.5691 | test accuracy: 0.8755
+Epoch:  0 | train loss: 0.4107 | test accuracy: 0.9264
+Epoch:  0 | train loss: 0.2740 | test accuracy: 0.9404
+Epoch:  0 | train loss: 0.1300 | test accuracy: 0.9549
+Epoch:  0 | train loss: 0.1035 | test accuracy: 0.9660
+Epoch:  0 | train loss: 0.1344 | test accuracy: 0.9692
+Epoch:  0 | train loss: 0.0740 | test accuracy: 0.9722
+Epoch:  0 | train loss: 0.0428 | test accuracy: 0.9750
+Epoch:  0 | train loss: 0.0697 | test accuracy: 0.9786
+Epoch:  1 | train loss: 0.0753 | test accuracy: 0.9779
+Epoch:  1 | train loss: 0.0786 | test accuracy: 0.9816
+Epoch:  1 | train loss: 0.0898 | test accuracy: 0.9813
+Epoch:  1 | train loss: 0.1070 | test accuracy: 0.9821
+Epoch:  1 | train loss: 0.0892 | test accuracy: 0.9829
+Epoch:  1 | train loss: 0.0375 | test accuracy: 0.9796
+Epoch:  1 | train loss: 0.0785 | test accuracy: 0.9801
+Epoch:  1 | train loss: 0.0254 | test accuracy: 0.9824
+Epoch:  1 | train loss: 0.1064 | test accuracy: 0.9852
+Epoch:  1 | train loss: 0.0307 | test accuracy: 0.9839
+Epoch:  2 | train loss: 0.0419 | test accuracy: 0.9838
+Epoch:  2 | train loss: 0.0822 | test accuracy: 0.9839
+Epoch:  2 | train loss: 0.0657 | test accuracy: 0.9841
+Epoch:  2 | train loss: 0.0755 | test accuracy: 0.9846
+Epoch:  2 | train loss: 0.0365 | test accuracy: 0.9864
+Epoch:  2 | train loss: 0.0681 | test accuracy: 0.9861
+Epoch:  2 | train loss: 0.0421 | test accuracy: 0.9868
+Epoch:  2 | train loss: 0.0544 | test accuracy: 0.9872
+Epoch:  2 | train loss: 0.0333 | test accuracy: 0.9882
+Epoch:  2 | train loss: 0.0273 | test accuracy: 0.9851
+Epoch:  3 | train loss: 0.0270 | test accuracy: 0.9885
+Epoch:  3 /home/huyulong/jiangxuhui/anaconda3/LLM/lib/python3.8/site-packages/torchvision/datasets/mnist.py:81: UserWarning: test_data has been renamed data
+  warnings.warn("test_data has been renamed data")
+/home/huyulong/jiangxuhui/anaconda3/LLM/lib/python3.8/site-packages/torchvision/datasets/mnist.py:71: UserWarning: test_labels has been renamed targets
+  warnings.warn("test_labels has been renamed targets")
+/data/Heimdallr/Mnist/mnist-homework/main-gpu.py:93: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  test_y_tensor = torch.tensor(test_y).clone().detach()
+/data/Heimdallr/Mnist/mnist-homework/main-gpu.py:93: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  test_y_tensor = torch.tensor(test_y).clone().detach()
+| train loss: 0.0216 | test accuracy: 0.9842
+Epoch:  3 | train loss: 0.0148 | test accuracy: 0.9873
+Epoch:  3 | train loss: 0.0373 | test accuracy: 0.9869
+Epoch:  3 | train loss: 0.1409 | test accuracy: 0.9869
+Epoch:  3 | train loss: 0.0193 | test accuracy: 0.9882
+Epoch:  3 | train loss: 0.0143 | test accuracy: 0.9882
+Epoch:  3 | train loss: 0.0746 | test accuracy: 0.9874
+Epoch:  3 | train loss: 0.0034 | test accuracy: 0.9888
+Epoch:  3 | train loss: 0.0640 | test accuracy: 0.9877
+Epoch:  4 | train loss: 0.0360 | test accuracy: 0.9894
+Epoch:  4 | train loss: 0.0711 | test accuracy: 0.9892
+Epoch:  4 | train loss: 0.0536 | test accuracy: 0.9885
+Epoch:  4 | train loss: 0.0229 | test accuracy: 0.9889
+Epoch:  4 | train loss: 0.0099 | test accuracy: 0.9892
+Epoch:  4 | train loss: 0.0014 | test accuracy: 0.9885
+Epoch:  4 | train loss: 0.0131 | test accuracy: 0.9903
+Epoch:  4 | train loss: 0.0758 | test accuracy: 0.9891
+Epoch:  4 | train loss: 0.0223 | test accuracy: 0.9879
+Epoch:  4 | train loss: 0.0133 | test accuracy: 0.9902
+Epoch:  5 | train loss: 0.0077 | test accuracy: 0.9901
+Epoch:  5 | train loss: 0.0143 | test accuracy: 0.9899
+Epoch:  5 | train loss: 0.0117 | test accuracy: 0.9905
+Epoch:  5 | train loss: 0.0393 | test accuracy: 0.9906
+Epoch:  5 | train loss: 0.0520 | test accuracy: 0.9891
+Epoch:  5 | train loss: 0.0040 | test accuracy: 0.9911
+Epoch:  5 | train loss: 0.0052 | test accuracy: 0.9898
+Epoch:  5 | train loss: 0.0096 | test accuracy: 0.9894
+Epoch:  5 | train loss: 0.0198 | test accuracy: 0.9901
+Epoch:  5 | train loss: 0.0029 | test accuracy: 0.9893
+Epoch:  6 | train loss: 0.0170 | test accuracy: 0.9908
+Epoch:  6 | train loss: 0.0133 | test accuracy: 0.9899
+Epoch:  6 | train loss: 0.0035 | test accuracy: 0.9897
+Epoch:  6 | train loss: 0.0189 | test accuracy: 0.9903
+Epoch:  6 | train loss: 0.0177 | test accuracy: 0.9890
+Epoch:  6 | train loss: 0.0203 | test accuracy: 0.9914
+Epoch:  6 | train loss: 0.0500 | test accuracy: 0.9893
+Epoch:  6 | train loss: 0.0269 | test accuracy: 0.9887
+Epoch:  6 | train loss: 0.0187 | test accuracy: 0.9883
+Epoch:  6 | train loss: 0.0164 | test accuracy: 0.9912
+Epoch:  7 | train loss: 0.0081 | test accuracy: 0.9903
+Epoch:  7 | train loss: 0.0194 | test accuracy: 0.9912
+Epoch:  7 | train loss: 0.0150 | test accuracy: 0.9918
+Epoch:  7 | train loss: 0.0015 | test accuracy: 0.9897
+Epoch:  7 | train loss: 0.0404 | test accuracy: 0.9901
+Epoch:  7 | train loss: 0.0215 | test accuracy: 0.9890
+Epoch:  7 | train loss: 0.0156 | test accuracy: 0.9908
+Epoch:  7 | train loss: 0.0173 | test accuracy: 0.9920
+Epoch:  7 | train loss: 0.0074 | test accuracy: 0.9886
+Epoch:  7 | train loss: 0.0107 | test accuracy: 0.9909
+Epoch:  8 | train loss: 0.0074 | test accuracy: 0.9910
+Epoch:  8 | train loss: 0.0020 | test accuracy: 0.9920
+Epoch:  8 | train loss: 0.0203 | test accuracy: 0.9902
+Epoch:  8 | train loss: 0.0059 | test accuracy: 0.9908
+Epoch:  8 | train loss: 0.0115 | test accuracy: 0.9904
+Epoch:  8 | train loss: 0.0301 | test accuracy: 0.9904
+Epoch:  8 | train loss: 0.0164 | test accuracy: 0.9907
+Epoch:  8 | train loss: 0.0179 | test accuracy: 0.9904
+Epoch:  8 | train loss: 0.0032 | test accuracy: 0.9896
+Epoch:  8 | train loss: 0.0371 | test accuracy: 0.9896
+Epoch:  9 | train loss: 0.0012 | test accuracy: 0.9917
+Epoch:  9 | train loss: 0.0152 | test accuracy: 0.9912
+Epoch:  9 | train loss: 0.0033 | test accuracy: 0.9922
+Epoch:  9 | train loss: 0.0067 | test accuracy: 0.9907
+Epoch:  9 | train loss: 0.0068 | test accuracy: 0.9905
+Epoch:  9 | train loss: 0.0395 | test accuracy: 0.9908
+Epoch:  9 | train loss: 0.0474 | test accuracy: 0.9907
+Epoch:  9 | train loss: 0.0104 | test accuracy: 0.9894
+Epoch:  9 | train loss: 0.0127 | test accuracy: 0.9922
+Epoch:  9 | train loss: 0.0096 | test accuracy: 0.9902
